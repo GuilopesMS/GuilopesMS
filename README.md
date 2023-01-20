@@ -1,4 +1,4 @@
-### Ola! eu sou Guilherme Lopes Lima👋
+### Ola! Eu sou Guilherme Lopes Lima👋
 
 <a href="https://www.facebook.com/guilherme.lopeslima.33/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"> </a>
 <a href="https://www.instagram.com/guilhermelpl_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"> </a>
@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)
 
-<div "style = "display: flex"> 
+<div "style = display: flex"> 
 
 ![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=gruvbox)
 
