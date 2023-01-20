@@ -6,10 +6,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)
 
+<div "style = "display: flex"> 
+
 ![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 
 
