@@ -4,15 +4,13 @@
 <a href="https://www.facebook.com/guilherme.lopeslima.33/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"> </a>
 <a href="https://steamcommunity.com/id/Guilopes-Iwnl-/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> </a>
 
-<div style="align=center"> 
      
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)
 
 ![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=tokyonight)
 
- </div>
 
 
 
