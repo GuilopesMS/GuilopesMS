@@ -5,7 +5,6 @@
 <a href="https://steamcommunity.com/id/Guilopes-Iwnl-/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> </a>
 
      
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)
 
 ![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=dracula)
 
