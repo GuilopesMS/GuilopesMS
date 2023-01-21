@@ -7,9 +7,9 @@
      
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)
 
-![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=gruvbox)
+![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=dracula)
 
 
 
