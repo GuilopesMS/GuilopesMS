@@ -3,12 +3,11 @@
 <a href="https://www.facebook.com/guilherme.lopeslima.33/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"> </a>
 <a href="https://steamcommunity.com/id/Guilopes-Iwnl-/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> </a>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Guilhermelpl&theme=dark)](https://git.io/streak-stats)    
-
+<div style="display: inline_block"> 
 ![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=dark)
-
+</div>
 
 
 
