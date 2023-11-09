@@ -5,8 +5,6 @@
 
 <div style="display: inline_block"> 
   
-![Guilhermelpl GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermelpl&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=dark)
 </div>
 
