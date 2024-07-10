@@ -39,6 +39,10 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+      <br>Github
+    </td>
   </tr>
 </table>
 <br><br>
