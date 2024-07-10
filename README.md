@@ -1,7 +1,7 @@
 ### Ola! Eu sou Guilherme Lopes Lima👋
 
 <div style="display: inline_block"> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermelpl&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelpl&hide_progress=true)
 </div>
 
 ### Tecnologias
