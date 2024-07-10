@@ -1,10 +1,17 @@
 ### Ola! Eu sou Guilherme Lopes Lima👋
 
-<div style="display: inline_block"> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelpl&hide_progress=true)
-</div>
+<h1 align="center">Github Stats</h1>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelpl&show_icons=true&layout=compact&theme=tokyonight" alt="guilhermelpl" />
+  <img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=guilhermelpl&show_icons=true&theme=tokyonight&layout=compact" />
+</p>
 
-### Tecnologias
+<br>
+<p align="center">
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermelpl&theme=tokyonight" />
+</p>
+
+### Technologies
 <div style="display: inline_block"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee">
