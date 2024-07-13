@@ -1,4 +1,4 @@
-### Ola! Eu sou Guilherme Lopes Lima👋
+### Hello! I am Guilherme Lopes Lima👋
 
 ### Technologies
 <table align="center">
